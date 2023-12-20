@@ -1,0 +1,6616 @@
+fileFormatVersion: 2
+guid: eb81a0391763b4643b8e7decd08e1011
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedMushroom
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10a628cf0603274abe47e27b3f29380
+      internalID: 1243335141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenMushroom
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdbf8b275caa1a469d15cdf6438c2b9
+      internalID: -744067663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994079ece4232a4f84a9864e40cecac
+      internalID: -1745147825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanooki
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 391
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4911810ae9dfbc94f95a08852ec24629
+      internalID: -1274081525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star01
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d2ffff630a68847a277d420a689c51
+      internalID: -952276293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star02
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd85a7256cf024449a3a30fb56fad907
+      internalID: -989169475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star03
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca4a8c34c73bd746a4e9684750901a0
+      internalID: -468433015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star04
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d11705b8ab7a046ac0025febaafc4c
+      internalID: -1904361192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6009f6ddc0baf24a8eda01d3147b2b8
+      internalID: -996933630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8db3aea2d01ee4983e226b256f5285
+      internalID: 1645406436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd30a98452c97743af7637fdf9715e4
+      internalID: -89192561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 391
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c5a6a6a02b34d419ed9777ac7966a0
+      internalID: 1026557460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c91ba6c7e414a429afced3db75aea1
+      internalID: -1445083675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8146aaeca1f9af54cb848e8f043c9409
+      internalID: 17246222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8800cb1b40adf2e4c81d22d0891133a2
+      internalID: -1162350552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ae0f55b75303645aa4dc229fa20616
+      internalID: 1207834023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a645bf40a9a3418604fd12c91ae20
+      internalID: 1746648094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfba033fdb52e3b469df368acafc71c2
+      internalID: 1474301622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_18
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bac25085a3766a419d5123fa4bff433
+      internalID: 1089977088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 391
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af098ac5348eb224888c181bbcefa59d
+      internalID: -1167220486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e292dd4be15f6d24197cf74f2859ed95
+      internalID: -2141377817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa90a39f1dcfec49abe6cc68c3fdf93
+      internalID: -1932507298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65110a8934e070f448b12252dd00c47e
+      internalID: 1358747652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_23
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020698952dc925e41b43b78738de6ef2
+      internalID: -2141771204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e4b02030ead14bb092701d4d0a753
+      internalID: -1623375240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1682103a0683e4fafb74acf24484b0
+      internalID: 633546396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e331b57e5ba64bba82a6a68f609f7
+      internalID: 535990740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 391
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c4e9b83d2ad449907fe549017e835
+      internalID: -421492025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_28
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df14ce1b1ea37545af7b96400f46672
+      internalID: 1867716421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_29
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478c8336bfd2ed9408711c2a685d2e73
+      internalID: 1251548529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_30
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e70462889ee8c84fba38b399e13271a
+      internalID: -1780157852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_31
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 389
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5b2fb9fd6ea894b9a527c00e9d1932
+      internalID: 769266587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_32
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 373
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6388d65e38514b24580a0accbcad2991
+      internalID: 1402008999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_33
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 373
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d6014e142f84f48a09fef250a06cb9
+      internalID: 1674729430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_34
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 373
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f2fa62f0005247bb8db0e3fbd96b7
+      internalID: 2024764922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_35
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 373
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2b6636c0b1da42b90e12c947443ca
+      internalID: 407780804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_36
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 373
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c896b78e9c17f044dbfa1560bde9fb51
+      internalID: -335943385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_37
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 373
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5715c8912eb00f4684715efae25e90b
+      internalID: 1771068403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_38
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 373
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3689787497c648a02b79ea4c9bce0
+      internalID: 1673874706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_39
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 373
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38063c8f87069bb42b7393d5a0adc551
+      internalID: -1524959257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8fe81d0d285ca4fa620b9c41fdf3f9
+      internalID: -383713838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3a9a9457b6e1b4ba1407e5be5d4ef5
+      internalID: 1322630664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 371
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2fce71902b4b4a9fee610baa49bfa
+      internalID: 620350866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab1ca33053d2c147aae081901e10fd2
+      internalID: 1554735079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8196f3d7a63cc70458a4d5fc7d528f54
+      internalID: 1258733748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a6f264f29853b43b7d301795cc176a
+      internalID: -770906582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15e907fe2a65e44ba910609be78081a
+      internalID: -1563543051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_47
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 371
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed76c10e72ce82e4fa796f0a8ed7d381
+      internalID: 1458065202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ef760a3d15c74484059b9911dfd54
+      internalID: 1994078623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753c739d26b5bd747872134a1eecd302
+      internalID: 1465542315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_50
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86714eda07b0104882770e72ed4aec7
+      internalID: -1934910122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_51
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ae59524f76ec64e996ee252505dc5d
+      internalID: -1152703645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_52
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 371
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520d87e1b659073419116b121e49d50b
+      internalID: -1945621610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822618319a1456d43b043486de96ddc8
+      internalID: -1009377941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1e309ae2316e34e96e3d4d7a6bb395
+      internalID: -1231173386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_55
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c3696aa5498b45bb31732b41bd011
+      internalID: -1902883750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5c47570f1f91545aa2934c754b7dd3
+      internalID: -279315122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_57
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 371
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40adc31019e0a2044a2aff1e5dfcb14b
+      internalID: 802902484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5011e724e23bd574da5bafa1c2f3d53e
+      internalID: 1537696410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_59
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 371
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa9e0e35b53302419027f1968b75f40
+      internalID: -960146434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b550685acb253194689ae6ae2ec5ccde
+      internalID: 1449061679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6689bcd20947feb4b98c63439f545e89
+      internalID: -282844320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_62
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65efed409c31efe4eba5d95c47bedf42
+      internalID: 525907045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 342
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202ccc00f3858a46af4d7f3bfe44509
+      internalID: -122844057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0265dbc7ea20da4286d3b6c5b61f43d
+      internalID: 682946001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_65
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eab65ac1f1f9047acfa379264ecb62
+      internalID: -336761514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_66
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211c93686b5af5f4197b3fcc6ada51f3
+      internalID: -1675513025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_67
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc38ac196b1351f4aa7c7f873b42c648
+      internalID: -1822096869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae146169bf5cb40a89034bfebadc55
+      internalID: 1613423066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df0cf2c9359f294097aae3ce5601607
+      internalID: -826517275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_70
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748477b0cc9f70043865620dc8e4e754
+      internalID: 2075761476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_71
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 342
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c99971dff857cf4cbd0dc95db744a08
+      internalID: 928404955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c535c2a44129340b5234cc4c594cee
+      internalID: -1658516753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_73
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082e57ec1c2ce443bb27fb594859895
+      internalID: 825968026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_74
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4e062efbe8234b9aa623c8d3a840f
+      internalID: 207499690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_75
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77c2bf1800e5984894eca19450250af
+      internalID: -1121474136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_76
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bf5f1a76503c04699185afac8c8bf1
+      internalID: 1517483536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_77
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986136a6296f41741931becba60f6ef9
+      internalID: -79524664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_78
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a362af2669b4104985578797614ee1d
+      internalID: 768091085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_79
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 342
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d792cdb1c352343b19375ec56ecacf
+      internalID: -1059544229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_80
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076fa22f85845384aa9cbe1cf021729a
+      internalID: 475660533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_81
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4d171263095c345bc1e742006ec5bc
+      internalID: -1523894492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_82
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd64ebd3b47fed4b9e3255601cb4d04
+      internalID: -365533521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_83
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7e087aaf6a9154eb193f5f086c5cd4
+      internalID: 371481410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_84
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6a559ab12c50646b3f7f1c9c2991b3
+      internalID: 1515983782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35120c0c13a893249abf954c7129635f
+      internalID: 221744812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_86
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33809358677a9574894272dae85f6025
+      internalID: -860675969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_87
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 342
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023afb6b523b4e74eb48cc16b8c84ce8
+      internalID: -887989000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_88
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8bc7f67e602184fb94252bceaeb04e
+      internalID: 1721849381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_89
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f45122dda8d2e47bbf5a769dd27113
+      internalID: 484283140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_90
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 340
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a0a5efe9ced1147bb84e1e3adc6768
+      internalID: -762914021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_91
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 326
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b16d85cd363394db1db824e641fdef
+      internalID: -486422141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_92
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 327
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9a9678c2829846844b0efe12e8dd4
+      internalID: -97622419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_93
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 327
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3474cae097e9cc45a111586bac2dbaf
+      internalID: 1797409694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_94
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 327
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1c1022ee6fa564797333b39a3f3894
+      internalID: -1398949027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_95
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 327
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c116c614ce504147a49d017b4dbef93
+      internalID: -787686828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7dbf43051482b48880d10429a3b932
+      internalID: -115326134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_97
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f316381f2ecf44396b1fab6b346cc4
+      internalID: 2062974247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_98
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 322
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d7de062c966943850e36ca8fff017
+      internalID: 997278975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_99
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9307d0472dd3b648935aa0a54735bba
+      internalID: 1296867013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_100
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c9a742af1ab14ebbe11438f2daabd
+      internalID: 1827154992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050ea0bb44f3a924c90623074ed7f6cd
+      internalID: 653319708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972e9e516d60a3429d867e8251c7f81
+      internalID: -657910288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_103
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 322
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b02a757e62639241ba51440c15e9d21
+      internalID: -729274612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_104
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36ce04431980694fa8566ca5a5fcd46
+      internalID: 298464870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_105
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f161ecb1cca172442acc9aa9d03ce002
+      internalID: -257978576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_106
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f554d020bba7b49a2cc35d0f52dd40
+      internalID: 1898864272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_107
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41f189e04acf324e90b42a028fe4a86
+      internalID: -2080955737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_108
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 322
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab3e46fb2bcfef4c809e616181704da
+      internalID: 2144102862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_109
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424bd0456b88ae941accc0724eb6e791
+      internalID: -816132869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_110
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a4c14f0532c694daa81d34d1ca3fe5
+      internalID: 1814916542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_111
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f914e94681b57b499a78a374e134b2a
+      internalID: 1609277474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_112
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e45a4a5e80dac40b81253930ae4fc3
+      internalID: 1695144844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_113
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 322
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d1fd7e47c62d4180bee73b6b802dc
+      internalID: -1464573878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_114
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b7766623ef6242baaad9e758eab86
+      internalID: 163079333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_115
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 322
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507ecbb8101b3dc4fbe6770daaf6cc9a
+      internalID: 1744254297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_116
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 326
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee29ebe724341324e8480548b1925dc6
+      internalID: 1845425753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_117
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 326
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d421d6b2dded3194c8a4a7cc7cdc12f4
+      internalID: -2091136689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f943e86cd8b9beb4c8e7fd696a9961a5
+      internalID: -1937962716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_119
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348dad299c324d488fa53cb4f166c45
+      internalID: 1731436314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_120
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4940735a52e99a43b98593224967950
+      internalID: -1241308671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_121
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 293
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b67b63ac9cab945a2637593636eaa0
+      internalID: 464555672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_122
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a5884672e5c734f8930ab58e27ab8f
+      internalID: -1673899489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61353c9363455a44fbcc2a51ad3c024c
+      internalID: 1203833105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_124
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c95f1b11658484fa360c4334dc1f3b
+      internalID: 1268056402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_125
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85d429f6fba82048a71104a574fbb94
+      internalID: 2093305162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_126
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c238124f74688d143a6f192867cbab60
+      internalID: -962259942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_127
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46236021ac5e1c94ba10f784a58a944b
+      internalID: -850486061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_128
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafd42834da3c05428a37569cc496cbe
+      internalID: 1740608249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_129
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 291
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb5eade25ac92f4b97e063344f9b749
+      internalID: 484023487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_130
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 279
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e7ec810873f264bbcabfcbcc08c462
+      internalID: -1726220626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_131
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 279
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a1822393ed7f944af97eeb8a7f60b4
+      internalID: -1989272724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_132
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 279
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddbd4712d0803a40bed84e682989958
+      internalID: 640356099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_133
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 279
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bc8af7a0935464db86c63e2a2ffb77
+      internalID: 838333384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_134
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 279
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98844265282c0d0409536a90ef958cd7
+      internalID: -2058118751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_135
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 279
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623cf949239f7a8479548e5cac3ed784
+      internalID: 207284789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_136
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 279
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01c1216c9bfc5d4c9dd0cd11bbe4457
+      internalID: 1942054883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_137
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 279
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c41161f89e18e40b2b0402096566cc
+      internalID: 448818976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_138
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e942152c2e8b7e8479ee8acadbab9e8d
+      internalID: 352194074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_139
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 273
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80910510d8c6b7c428863499dbb43f87
+      internalID: -460371078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_140
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 273
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a14943b9e0c5849b67a8ea9e56363a
+      internalID: 1825879962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_141
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 273
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe3d75986dd72542bc4ed87fc15adb8
+      internalID: 1717402543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_142
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 273
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63686ee158bb6d04599134cfaf3d9ab2
+      internalID: 1398791448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_143
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 273
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426b941b15d80214c841c16e4640ce95
+      internalID: -421133427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_144
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 273
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a75e6d05059dae47a99d330bc1cf790
+      internalID: 1605995983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_145
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 249
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264221687c8f7e1499e89a8f28ac34d9
+      internalID: 535582082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_146
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 232
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4628d3db285ba094099a73e4ec06fd0a
+      internalID: -2138766728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_147
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 232
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b8f7419ad2d0445ae38573c71a560c
+      internalID: -1841940119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_148
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 232
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab9183dbc89d649a66663c21a43b7c
+      internalID: -1857206701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_149
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 232
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b9e5cce26be44f961050f40627b6a
+      internalID: -1996483514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_150
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 234
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06755cb36f6ba4469c3f86ddc03cef8
+      internalID: -1362192781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_151
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 233
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c34b904296678748bd4b6aa41a42330
+      internalID: 3931415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_152
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 234
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9169514f073e66e48bdfd8803a1b5f6b
+      internalID: -728362410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_153
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 233
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c8ab27cae4c8f4a945abd19fb8c104
+      internalID: 1735567470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7148db640ee1342b1d69475d02a19e
+      internalID: 1621809817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_155
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 229
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62246209b03aac488928eb388bd9333
+      internalID: 240409959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_156
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 229
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9dba10c9153b940b5b0140401203cd
+      internalID: -1382698220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_157
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 229
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1a8c55b41a3e4199ba068fd2ee45e
+      internalID: -816794319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_158
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 229
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f45fa756960b8748a5f5dbe85fcd7a4
+      internalID: -958470932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_159
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 229
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a2d600ebc8c740b73a94e48089308
+      internalID: 865760280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4015338ae3a4d344695326ac39b399c2
+      internalID: -479164521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_161
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 188
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1109bead99a5314faf29362a382a6e2
+      internalID: -992636534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_162
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e31628f27b4f74ea1562d8a25498e2
+      internalID: -686745579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_163
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b8f815b47ec3e46b820e858895fcd2
+      internalID: 1069920375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_164
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 188
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99812624bbf5b964398cd37658276305
+      internalID: -1543143692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_165
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758b917e6eca2b544b251e974150b6c8
+      internalID: -429127059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_166
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1744c352510593047a3e3807dcc18e59
+      internalID: -501345874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_167
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 188
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad427fd330fa1ac4faaad966ad53238f
+      internalID: 380693904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf041cb633e967448ac5789d1168add3
+      internalID: -2011946866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_169
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca6f256f1a041d47b54c6e096a4ef41
+      internalID: 829050076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_170
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 188
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509fa93058c4869448dfbb9419c5b8eb
+      internalID: -1243495263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_171
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d24040adbe13d841ae9a506545cac4d
+      internalID: 1387965197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_172
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28510b40c81dcb449ab8fe71f3e3dfa1
+      internalID: -257739788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_173
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 188
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f469f4647164b384a897d19370346c31
+      internalID: -1931215695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_174
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2e0518b24fcad48ac58c59eb9d816d
+      internalID: 527189392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_175
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e7f2c152f3ff345a62c2b0c2579864
+      internalID: 96208275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_176
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 188
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d425b70651b4419c52c05a9ad1adc
+      internalID: -474354837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_177
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4677416777e244e9db745b5e3a2d17
+      internalID: 1338078439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_178
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d161c75fd55ba084ca15143aaa13a0d2
+      internalID: 2049577266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_179
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 188
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77d69e672c963439bc6a0e9ba9b954
+      internalID: 1269397977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_180
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce1dae6deecc6458b391f9e6985031
+      internalID: 233648115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_181
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3654590e1547678409f8b59acdce6c5b
+      internalID: 1997693482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_182
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 188
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c86ee803dc5643b99efcc9e53c54b
+      internalID: 56755001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_183
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e13ae2af67eb409ed32158677d487
+      internalID: 586567900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_184
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90216c3b07fff9f4cb62f80197073ed2
+      internalID: 1391274016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_185
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 188
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35149fb31ade9649acb6f86fd828943
+      internalID: -672845397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_186
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 189
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76bc63e49743db40a5de25f56cc6033
+      internalID: -311142726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_187
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 185
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb7fb2c30310049954f992e562eeee
+      internalID: -556929680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_188
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 194
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0600bd5862a0f4c85fc8df8569c1a9
+      internalID: 1262626666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_189
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 185
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d01bc293e753fa47a7407a96191ab0f
+      internalID: -2103435216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_190
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 194
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81e6634072daff4190cc96d6c8bb763
+      internalID: 222940889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_191
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 185
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4b554a8b0f1748a3be49e93ec4854
+      internalID: -1206647966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_192
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 185
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169d1adb40dd77a4786ed4a86c6c1ac3
+      internalID: 1325865964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_193
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 185
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75fb8b5d6970b640bb6704b728ace1a
+      internalID: -1791581159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_194
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 185
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45583a313fdf11642ac48994c9908f4f
+      internalID: -1807367607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_195
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0667733aae5bd6438677d5aa06b8a9d
+      internalID: 842254292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_196
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 177
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96e04570ed3f1840b846cd75cae123d
+      internalID: -465718732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_197
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5c271cd4c9aa840a50ccd2ac0db524
+      internalID: -552864200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_198
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 177
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6731154fc7d29418061a688bd1f50e
+      internalID: 1534761259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_199
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42630c1033168c141ae90e8877ec3395
+      internalID: 1986403493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_200
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 177
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db07330dcf653144819a04cb76f18ae
+      internalID: -1196372921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_201
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fee9ec00fe23474e993b4decbed6558
+      internalID: -5515934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_202
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 177
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e395f6d547a6f439f9ad7487ca49f5
+      internalID: 366662797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_203
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede84279cd0810246a6e079f1960ce61
+      internalID: 1149832053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_204
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 177
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68879c7622ae17b4b9bf8851609eeebe
+      internalID: -20037187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_205
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4d940ea1aaef34ba2253a180cb7066
+      internalID: 38774552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_206
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 177
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2660d6424d6ef45a2637f2df29aae3
+      internalID: 226094667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_207
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385025a54dfe52944a633bfcf40e3974
+      internalID: 1915062040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_208
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 177
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87148c93a1b77fe41be870e684807415
+      internalID: -991961497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_209
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a5e37162aeef469c67b44e6ee1c74
+      internalID: -78047062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_210
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ecede91c622e34db736b6224ac6400
+      internalID: 390629297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_211
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d92e3fd4d564a54ca0859f881f78542
+      internalID: -2009931125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_212
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 175
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19690a5d35316f749838d4d914ae3c38
+      internalID: 100646002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_213
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b099d4538c29af42b0a64c2e94dacfa
+      internalID: 1879469503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_214
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 154
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76b46075e1b7c3478e3783046b946e9
+      internalID: 1969436174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_215
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831e075e6ee78734f98d4e106178cba6
+      internalID: -513815309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_216
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4802f65259bd74a947512808430fe4
+      internalID: -1521299694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_217
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 154
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f81dce07e043f4cb6aea2e8e3b95c3
+      internalID: 1687405612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_218
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24ab47780235ec4f802e9345c239b8c
+      internalID: -1446673631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_219
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97a71f4c821a2f4aab2e493a92bed2b
+      internalID: -1498629243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_220
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 154
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e43295f65be0ce4d8b2e0fc5e65f3d6
+      internalID: -1742752943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_221
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a0a5556db4c3c4bbe591373bd410a9
+      internalID: -372610029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_222
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855db60e0e317194fa85599066497f52
+      internalID: 1988165837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_223
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 154
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0e9b9fcc0c77438aa44440139bf6b
+      internalID: -199162589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_224
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fa307d45000704393fe7bc27ae7df1
+      internalID: 1099349513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_225
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05beaa07dd8cc57408c6ae0a1ea0f2ac
+      internalID: -1814536140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_226
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 154
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bc3007834bf004584e3df53220bb08
+      internalID: 973877598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_227
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a0b96f0c8d4cc4fad7479ae6c80265
+      internalID: 146354039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_228
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb50907d4435ade42bfd3e7729ed8670
+      internalID: -452487177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_229
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 154
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcadd5a8fffe9f4bb3eb0f9f6c3607f
+      internalID: 369834840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_230
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78619278dabde742b264b479ebc12e0
+      internalID: 1702025306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_231
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b503465a0b673149855e4c29ed8fb7b
+      internalID: 945616534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_232
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 154
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e421ed1847d597f4488e9c5be09664c8
+      internalID: 1955322760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_233
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf08b937c81b804fbe0ca39327b429f
+      internalID: 413933990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_234
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219746e8cafef0a468a8032838cc2800
+      internalID: 1746158059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_235
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 154
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14eea968798c4040a27e2f0f8b0ea8d
+      internalID: 1137362118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_236
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f247982a5e7e6d46bfd79c57233aebb
+      internalID: -2032809637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_237
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48177123d903b9043a4a94a551c8e48a
+      internalID: 1741938603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_238
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 154
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e610bf35ad99e4e8e659f73dc175cc
+      internalID: -1870606043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_239
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 156
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70959a8254397b41983b722fd64f5aa
+      internalID: -1875022617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_240
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 139
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e782dc26c4a588843b694d84485d58d4
+      internalID: -2052711079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_241
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 139
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6100936b18bc47c4198f6471e999b14b
+      internalID: 255394692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_242
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 139
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae943e2220be5a243bfb26bb59cad87a
+      internalID: 1852009378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_243
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 139
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0afc2f47b124042990086f2952e8fd
+      internalID: -1011231627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_244
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 147
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccbd334248f1224d900d19b5f5e597c
+      internalID: -425931642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_245
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 148
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e066c06ac91b39a448a40089a843e214
+      internalID: -1855554844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_246
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 147
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2b5de3576262349b9a830e974e7636
+      internalID: -1042436444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_247
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 138
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b744e506d4f1ce42843d1c9b172decf
+      internalID: -1845286041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_248
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 138
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25dd8767a50784cb5feb3d95ede380
+      internalID: 358011833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_249
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 138
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14a7e3e76e29f24d92f294285b35baa
+      internalID: 1199879400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_250
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 138
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f2bd6d70a65f4e93e415d2ecf46be
+      internalID: 1886969739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_251
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 138
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960a00e544d1dec408670fe0a8d5f84b
+      internalID: 1084116147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_252
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b4b02a1bdab1c47bc43bc51ef45166
+      internalID: -1993330275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_253
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7ec8acc9034d7459c490f85f3bec9a
+      internalID: 486641658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_254
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66367626da06c1241ba40e7b93ea43bb
+      internalID: 287578279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_255
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9705093dd7e250e45adb248b04b6a768
+      internalID: 85938553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_256
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f8b3641a09075468da96cbfa20f804
+      internalID: 1734907699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_257
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff8b25c85840234ea6f87af7bfe9cf1
+      internalID: 1214886169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_258
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796252ee0cc168346bf058117791dd57
+      internalID: -1205441806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_259
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd62ffdbb1324164cb7ea8bce132b2a1
+      internalID: 474025370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_260
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ab3d6469a351d4b8a31d7cd899d9e6
+      internalID: 1700900479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_261
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d7da3bbdb958942b48b4ffab6c56e9
+      internalID: -1960192881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_262
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2e5fd61df90241971c2a7b70c6613
+      internalID: -1840072564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_263
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dabe11f761614f4ea09771f73b03b18
+      internalID: 1613871842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_264
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4967443e872f792498cd86e6b6c33180
+      internalID: -1921637782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_265
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4e2f4443a201d4fa9dd5f043704b5a
+      internalID: 749160987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_266
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 111
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e7073ed17a2a44499d44689bdbd662
+      internalID: 376604462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_267
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 83
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874ab7ea906efdb4b8553b53a5b9065f
+      internalID: -1648849532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_268
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 83
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d26c0017ce130848b59f4669e2b7ce0
+      internalID: 912368531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_269
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 83
+        width: 16
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8654b7d72a54cbd44a4e6eea3b2516a1
+      internalID: 1796041533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_270
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 83
+        width: 16
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b624c88f5ed0e42488eaeb909a3c3e2d
+      internalID: 829151531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_271
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 83
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19be227103ad4cd4097b46838d32646a
+      internalID: 228741661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_272
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 83
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2895b9badec98e644a81f0367da6a21f
+      internalID: -352284620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_273
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 83
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10a0ee1bd4b8540adbdc2111ebef79
+      internalID: -327938666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_274
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 83
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f105071da5f817848982653f20d777a7
+      internalID: -373504693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_275
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 88
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118f37d011d2d184b81509be25b20fd7
+      internalID: -1435524935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_276
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 108
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca3ed8882e1d1458f92e4140ae004b
+      internalID: -97234464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_277
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 52
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b524fadddbe6eca42b97eb99fc140456
+      internalID: 1149535783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_278
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 52
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d5c97fc1a8a1d4489c9395c6022bc1
+      internalID: -1128889721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_279
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 52
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce26a1a1b7f0840a93279b1c2da67d
+      internalID: 1122808427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 433
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bab277e6b3a634291d89449e4c0441
+      internalID: 1472519898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_281
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3866811fc74138244bade2e4866c4bf1
+      internalID: 64267079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_282
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 3
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5543c065ddbf9f4596dd8babfdece40
+      internalID: -553354524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_283
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689e1bcdf72c72348b75775e20b7cbb6
+      internalID: -2119620733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_284
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 6
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a9d90b47c9a6c4cac4f0c3629a9d99
+      internalID: -881524154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_285
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b20c747584b1e46bc168c923a9c193
+      internalID: 1966587981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_286
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 5
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05cf8258045bb49b034b8a70298b13
+      internalID: 1630532717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_287
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa1aeeff5d87b84da3f500da7039113
+      internalID: -1507830719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_288
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b715e690284337469b3dc6654556b48
+      internalID: -330743403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_289
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844bf26ef412dd14981f47b9f4c635df
+      internalID: 1057901893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_290
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5093899a835d3cc4597fecea4c9ece19
+      internalID: -1865840332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_291
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ed22c72c5cafa40ade820c8bc4625e
+      internalID: -1523108065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GreenMushroom: -744067663
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_10: -89192561
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_100: 1827154992
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_101: 653319708
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_102: -657910288
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_103: -729274612
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_104: 298464870
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_105: -257978576
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_106: 1898864272
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_107: -2080955737
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_108: 2144102862
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_109: -816132869
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_11: 1026557460
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_110: 1814916542
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_111: 1609277474
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_112: 1695144844
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_113: -1464573878
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_114: 163079333
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_115: 1744254297
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_116: 1845425753
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_117: -2091136689
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_118: -1937962716
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_119: 1731436314
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_12: -1445083675
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_120: -1241308671
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_121: 464555672
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_122: -1673899489
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_123: 1203833105
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_124: 1268056402
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_125: 2093305162
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_126: -962259942
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_127: -850486061
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_128: 1740608249
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_129: 484023487
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_13: 17246222
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_130: -1726220626
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_131: -1989272724
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_132: 640356099
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_133: 838333384
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_134: -2058118751
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_135: 207284789
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_136: 1942054883
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_137: 448818976
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_138: 352194074
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_139: -460371078
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_14: -1162350552
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_140: 1825879962
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_141: 1717402543
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_142: 1398791448
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_143: -421133427
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_144: 1605995983
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_145: 535582082
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_146: -2138766728
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_147: -1841940119
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_148: -1857206701
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_149: -1996483514
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_15: 1207834023
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_150: -1362192781
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_151: 3931415
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_152: -728362410
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_153: 1735567470
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_154: 1621809817
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_155: 240409959
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_156: -1382698220
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_157: -816794319
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_158: -958470932
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_159: 865760280
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_16: 1746648094
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_160: -479164521
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_161: -992636534
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_162: -686745579
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_163: 1069920375
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_164: -1543143692
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_165: -429127059
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_166: -501345874
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_167: 380693904
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_168: -2011946866
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_169: 829050076
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_17: 1474301622
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_170: -1243495263
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_171: 1387965197
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_172: -257739788
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_173: -1931215695
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_174: 527189392
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_175: 96208275
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_176: -474354837
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_177: 1338078439
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_178: 2049577266
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_179: 1269397977
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_18: 1089977088
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_180: 233648115
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_181: 1997693482
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_182: 56755001
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_183: 586567900
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_184: 1391274016
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_185: -672845397
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_186: -311142726
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_187: -556929680
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_188: 1262626666
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_189: -2103435216
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_19: -1167220486
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_190: 222940889
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_191: -1206647966
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_192: 1325865964
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_193: -1791581159
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_194: -1807367607
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_195: 842254292
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_196: -465718732
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_197: -552864200
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_198: 1534761259
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_199: 1986403493
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_2: -1745147825
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_20: -2141377817
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_200: -1196372921
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_201: -5515934
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_202: 366662797
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_203: 1149832053
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_204: -20037187
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_205: 38774552
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_206: 226094667
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_207: 1915062040
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_208: -991961497
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_209: -78047062
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_21: -1932507298
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_210: 390629297
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_211: -2009931125
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_212: 100646002
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_213: 1879469503
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_214: 1969436174
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_215: -513815309
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_216: -1521299694
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_217: 1687405612
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_218: -1446673631
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_219: -1498629243
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_22: 1358747652
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_220: -1742752943
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_221: -372610029
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_222: 1988165837
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_223: -199162589
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_224: 1099349513
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_225: -1814536140
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_226: 973877598
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_227: 146354039
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_228: -452487177
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_229: 369834840
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_23: -2141771204
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_230: 1702025306
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_231: 945616534
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_232: 1955322760
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_233: 413933990
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_234: 1746158059
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_235: 1137362118
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_236: -2032809637
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_237: 1741938603
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_238: -1870606043
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_239: -1875022617
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_24: -1623375240
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_240: -2052711079
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_241: 255394692
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_242: 1852009378
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_243: -1011231627
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_244: -425931642
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_245: -1855554844
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_246: -1042436444
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_247: -1845286041
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_248: 358011833
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_249: 1199879400
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_25: 633546396
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_250: 1886969739
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_251: 1084116147
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_252: -1993330275
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_253: 486641658
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_254: 287578279
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_255: 85938553
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_256: 1734907699
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_257: 1214886169
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_258: -1205441806
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_259: 474025370
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_26: 535990740
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_260: 1700900479
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_261: -1960192881
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_262: -1840072564
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_263: 1613871842
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_264: -1921637782
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_265: 749160987
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_266: 376604462
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_267: -1648849532
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_268: 912368531
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_269: 1796041533
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_27: -421492025
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_270: 829151531
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_271: 228741661
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_272: -352284620
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_273: -327938666
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_274: -373504693
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_275: -1435524935
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_276: -97234464
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_277: 1149535783
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_278: -1128889721
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_279: 1122808427
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_28: 1867716421
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_280: 1472519898
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_281: 64267079
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_282: -553354524
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_283: -2119620733
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_284: -881524154
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_285: 1966587981
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_286: 1630532717
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_287: -1507830719
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_288: -330743403
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_289: 1057901893
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_29: 1251548529
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_290: -1865840332
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_291: -1523108065
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_30: -1780157852
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_31: 769266587
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_32: 1402008999
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_33: 1674729430
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_34: 2024764922
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_35: 407780804
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_36: -335943385
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_37: 1771068403
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_38: 1673874706
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_39: -1524959257
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_40: -383713838
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_41: 1322630664
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_42: 620350866
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_43: 1554735079
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_44: 1258733748
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_45: -770906582
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_46: -1563543051
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_47: 1458065202
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_48: 1994078623
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_49: 1465542315
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_50: -1934910122
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_51: -1152703645
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_52: -1945621610
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_53: -1009377941
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_54: -1231173386
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_55: -1902883750
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_56: -279315122
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_57: 802902484
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_58: 1537696410
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_59: -960146434
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_60: 1449061679
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_61: -282844320
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_62: 525907045
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_63: -122844057
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_64: 682946001
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_65: -336761514
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_66: -1675513025
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_67: -1822096869
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_68: 1613423066
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_69: -826517275
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_70: 2075761476
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_71: 928404955
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_72: -1658516753
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_73: 825968026
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_74: 207499690
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_75: -1121474136
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_76: 1517483536
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_77: -79524664
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_78: 768091085
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_79: -1059544229
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_8: -996933630
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_80: 475660533
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_81: -1523894492
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_82: -365533521
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_83: 371481410
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_84: 1515983782
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_85: 221744812
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_86: -860675969
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_87: -887989000
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_88: 1721849381
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_89: 484283140
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_9: 1645406436
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_90: -762914021
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_91: -486422141
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_92: -97622419
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_93: 1797409694
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_94: -1398949027
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_95: -787686828
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_96: -115326134
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_97: 2062974247
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_98: 997278975
+      NES---Super-Mario-Bros-3---Level-Items-Magic-Wands-and-NPCs_0001_Layer-1_99: 1296867013
+      RedMushroom: 1243335141
+      Star01: -952276293
+      Star02: -989169475
+      Star03: -468433015
+      Star04: -1904361192
+      Tanooki: -1274081525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
